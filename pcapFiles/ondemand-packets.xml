@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stat-node name="Packet Lengths">
+<Count>9297</Count>
+<Average>1283.57</Average>
+<Min-Val>54</Min-Val>
+<Max-Val>1440</Max-Val>
+<Rate--ms->0.0600</Rate--ms->
+<Percent>100%</Percent>
+<Burst-Rate>5.6700</Burst-Rate>
+<Burst-Start>87.123</Burst-Start>
+<stat-node name="0-19" isrange="true">
+<Count>0</Count>
+<Average>-</Average>
+<Min-Val>-</Min-Val>
+<Max-Val>-</Max-Val>
+<Rate--ms->0.0000</Rate--ms->
+<Percent>0.00%</Percent>
+<Burst-Rate>-</Burst-Rate>
+<Burst-Start>-</Burst-Start>
+</stat-node>
+<stat-node name="20-39" isrange="true">
+<Count>0</Count>
+<Average>-</Average>
+<Min-Val>-</Min-Val>
+<Max-Val>-</Max-Val>
+<Rate--ms->0.0000</Rate--ms->
+<Percent>0.00%</Percent>
+<Burst-Rate>-</Burst-Rate>
+<Burst-Start>-</Burst-Start>
+</stat-node>
+<stat-node name="40-79" isrange="true">
+<Count>890</Count>
+<Average>55.25</Average>
+<Min-Val>54</Min-Val>
+<Max-Val>78</Max-Val>
+<Rate--ms->0.0057</Rate--ms->
+<Percent>9.57%</Percent>
+<Burst-Rate>0.3300</Burst-Rate>
+<Burst-Start>87.127</Burst-Start>
+</stat-node>
+<stat-node name="80-159" isrange="true">
+<Count>75</Count>
+<Average>118.92</Average>
+<Min-Val>84</Min-Val>
+<Max-Val>151</Max-Val>
+<Rate--ms->0.0005</Rate--ms->
+<Percent>0.81%</Percent>
+<Burst-Rate>0.1200</Burst-Rate>
+<Burst-Start>0.479</Burst-Start>
+</stat-node>
+<stat-node name="160-319" isrange="true">
+<Count>28</Count>
+<Average>251.86</Average>
+<Min-Val>167</Min-Val>
+<Max-Val>313</Max-Val>
+<Rate--ms->0.0002</Rate--ms->
+<Percent>0.30%</Percent>
+<Burst-Rate>0.0600</Burst-Rate>
+<Burst-Start>84.815</Burst-Start>
+</stat-node>
+<stat-node name="320-639" isrange="true">
+<Count>57</Count>
+<Average>510.81</Average>
+<Min-Val>325</Min-Val>
+<Max-Val>638</Max-Val>
+<Rate--ms->0.0004</Rate--ms->
+<Percent>0.61%</Percent>
+<Burst-Rate>0.1300</Burst-Rate>
+<Burst-Start>0.480</Burst-Start>
+</stat-node>
+<stat-node name="640-1279" isrange="true">
+<Count>93</Count>
+<Average>1058.71</Average>
+<Min-Val>649</Min-Val>
+<Max-Val>1248</Max-Val>
+<Rate--ms->0.0006</Rate--ms->
+<Percent>1.00%</Percent>
+<Burst-Rate>0.1700</Burst-Rate>
+<Burst-Start>15.834</Burst-Start>
+</stat-node>
+<stat-node name="1280-2559" isrange="true">
+<Count>8154</Count>
+<Average>1439.86</Average>
+<Min-Val>1346</Min-Val>
+<Max-Val>1440</Max-Val>
+<Rate--ms->0.0526</Rate--ms->
+<Percent>87.71%</Percent>
+<Burst-Rate>5.3400</Burst-Rate>
+<Burst-Start>87.123</Burst-Start>
+</stat-node>
+<stat-node name="2560-5119" isrange="true">
+<Count>0</Count>
+<Average>-</Average>
+<Min-Val>-</Min-Val>
+<Max-Val>-</Max-Val>
+<Rate--ms->0.0000</Rate--ms->
+<Percent>0.00%</Percent>
+<Burst-Rate>-</Burst-Rate>
+<Burst-Start>-</Burst-Start>
+</stat-node>
+<stat-node name="5120 and greater" isrange="true">
+<Count>0</Count>
+<Average>-</Average>
+<Min-Val>-</Min-Val>
+<Max-Val>-</Max-Val>
+<Rate--ms->0.0000</Rate--ms->
+<Percent>0.00%</Percent>
+<Burst-Rate>-</Burst-Rate>
+<Burst-Start>-</Burst-Start>
+</stat-node>
+</stat-node>
